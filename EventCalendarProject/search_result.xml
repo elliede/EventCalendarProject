@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<search>
+  <total_items>1832095</total_items>
+  <page_size>10</page_size>
+  <page_count>183210</page_count>
+  <page_number>1</page_number>
+  <page_items></page_items>
+  <first_item></first_item>
+  <last_item></last_item>
+  <search_time>0.449</search_time>
+  <events>
+    <event id="E0-001-093666587-1">
+      <title>BLOOD BATH &amp; BEYOND- Manna Zen</title>
+      <url>http://jacksonville.eventful.com/events/blood-bath-beyond-manna-zen-/E0-001-093666587-1?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 
+</description>
+      <start_time>2016-06-11 20:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-000542781-2</venue_id>
+      <venue_url>http://jacksonville.eventful.com/venues/jack-rabbits-/V0-001-000542781-2?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Jack Rabbits</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>1528 Hendricks Avenue</venue_address>
+      <city_name>Jacksonville</city_name>
+      <region_name>Florida</region_name>
+      <region_abbr>FL</region_abbr>
+      <postal_code>32207</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>30.3098501</latitude>
+      <longitude>-81.6547894</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:08:51</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:08:51</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666566-8">
+      <title>Sincerely, Iris</title>
+      <url>http://charlotte.eventful.com/events/sincerely-iris-/E0-001-093666566-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> Sincerely, Iris returns to Rush Espresso at 8pm!</description>
+      <start_time>2016-06-11 20:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-009742448-5</venue_id>
+      <venue_url>http://charlotte.eventful.com/venues/rush-espresso-/V0-001-009742448-5?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Rush Espresso</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>14815 Ballantyne Village Way</venue_address>
+      <city_name>Charlotte</city_name>
+      <region_name>North Carolina</region_name>
+      <region_abbr>NC</region_abbr>
+      <postal_code>28277</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>35.0507</latitude>
+      <longitude>-80.8143</longitude>
+      <geocode_type>Zip Code Based GeoCodes</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:08:22</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:08:22</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666462-3">
+      <title>Blackwater Jack</title>
+      <url>http://tampa.eventful.com/events/blackwater-jack-/E0-001-093666462-3?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 
+</description>
+      <start_time>2016-06-11 21:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-005359150-7</venue_id>
+      <venue_url>http://tampa.eventful.com/venues/thunder-tavern-/V0-001-005359150-7?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Thunder Tavern</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>5111 Florida 54</venue_address>
+      <city_name>New Port Richey</city_name>
+      <region_name>Florida</region_name>
+      <region_abbr>FL</region_abbr>
+      <postal_code>34652</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>28.2171075</latitude>
+      <longitude>-82.7291395</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:06:05</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:06:05</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666467-8">
+      <title>The Step Brothers- The Millenials</title>
+      <url>http://chicago.eventful.com/events/step-brothers-millenials-/E0-001-093666467-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 
+</description>
+      <start_time>2016-06-11 20:30:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/Chicago</olson_path>
+      <venue_id>V0-001-000473373-4</venue_id>
+      <venue_url>http://chicago.eventful.com/venues/q-billiards-sports-bar-/V0-001-000473373-4?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Q Billiards &amp;amp; Sports Bar</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>8109 S Cass Avenue</venue_address>
+      <city_name>Chicago</city_name>
+      <region_name>Illinois</region_name>
+      <region_abbr>IL</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>41.7239124</latitude>
+      <longitude>-87.7528216</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:06:11</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:06:11</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666660-3">
+      <title>BLACKBEARD'S TRUCK</title>
+      <url>http://eventful.com/landrum/events/blackbeards-truck-/E0-001-093666660-3?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 
+</description>
+      <start_time>2016-06-11 18:30:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/New_York</olson_path>
+      <venue_id>V0-001-009941437-6</venue_id>
+      <venue_url>http://eventful.com/landrum/venues/southern-delights-and-more-/V0-001-009941437-6?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Southern Delights and More</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>114 East Rutherford Street</venue_address>
+      <city_name>Landrum</city_name>
+      <region_name>South Carolina</region_name>
+      <region_abbr>SC</region_abbr>
+      <postal_code>29356</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>35.1324</latitude>
+      <longitude>-82.2557</longitude>
+      <geocode_type>Zip Code Based GeoCodes</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:10:16</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:10:16</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666723-1">
+      <title>Underclass U.K.</title>
+      <url>http://london.eventful.com/events/underclass-uk-/E0-001-093666723-1?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> with Healthy Junkies, Jelly, Kingcrows, Starfish.</description>
+      <start_time>2016-06-11 20:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>Europe/London</olson_path>
+      <venue_id>V0-001-000257788-8</venue_id>
+      <venue_url>http://london.eventful.com/venues/unicorn-/V0-001-000257788-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Unicorn</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>227 Camden Road</venue_address>
+      <city_name>Camden Town</city_name>
+      <region_name>Greater London</region_name>
+      <region_abbr>London</region_abbr>
+      <postal_code>NW1 9AA</postal_code>
+      <country_name>United Kingdom</country_name>
+      <country_abbr2>GB</country_abbr2>
+      <country_abbr>GBR</country_abbr>
+      <latitude>51.5409594</latitude>
+      <longitude>-0.1912660</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:11:20</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:11:20</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666397-0">
+      <title>Seven Soul</title>
+      <url>http://chicago.eventful.com/events/seven-soul-/E0-001-093666397-0?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 
+</description>
+      <start_time>2016-06-11 20:30:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/Chicago</olson_path>
+      <venue_id>V0-001-000483948-1</venue_id>
+      <venue_url>http://chicago.eventful.com/venues/shark-city-billiards-sports-bar-/V0-001-000483948-1?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Shark City Billiards &amp; Sports Bar</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>2240 Bloomingdale Road</venue_address>
+      <city_name>Glendale Heights</city_name>
+      <region_name>Illinois</region_name>
+      <region_abbr>IL</region_abbr>
+      <postal_code>60139</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>41.9395697</latitude>
+      <longitude>-88.0803954</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:05:00</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:05:00</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093666258-2">
+      <title>The Keith Owens Band- Gary Simpson</title>
+      <url>http://eventful.com/durant/events/keith-owens-band-gary-simpson-/E0-001-093666258-2?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 1st Annual Crawfest with Gary Simpson and The Keith Owens Band @ Bubba&amp;#39;s Brewhouse!</description>
+      <start_time>2016-06-11 15:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/Chicago</olson_path>
+      <venue_id>V0-001-009885803-2</venue_id>
+      <venue_url>http://eventful.com/durant/venues/bubbas-brewhouse-/V0-001-009885803-2?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Bubba's Brewhouse</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>9125 U.S. 70</venue_address>
+      <city_name>Durant</city_name>
+      <region_name>Oklahoma</region_name>
+      <region_abbr>OK</region_abbr>
+      <postal_code>74701</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>33.9949</latitude>
+      <longitude>-96.4008</longitude>
+      <geocode_type>Zip Code Based GeoCodes</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 02:00:20</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 02:00:20</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093662354-7">
+      <title>Deezy DaCapo #ALLIN #TFU #TKMG- Nic Beam- Snoflake</title>
+      <url>http://birmingham.eventful.com/events/deezy-dacapo-allin-tfu-tkmg-nic-beam-snoflake-/E0-001-093662354-7?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 
+</description>
+      <start_time>2016-06-11 21:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/Chicago</olson_path>
+      <venue_id>V0-001-005301440-6</venue_id>
+      <venue_url>http://birmingham.eventful.com/venues/legends-/V0-001-005301440-6?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>Legends</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>230 18th Street North</venue_address>
+      <city_name>Birmingham</city_name>
+      <region_name>Alabama</region_name>
+      <region_abbr>AL</region_abbr>
+      <postal_code>35203</postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>33.5142414</latitude>
+      <longitude>-86.8092975</longitude>
+      <geocode_type>EVDB Geocoder</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 00:50:08</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 00:50:08</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+    <event id="E0-001-093663675-4">
+      <title>DJ Direct</title>
+      <url>http://sandiego.eventful.com/events/dj-direct-/E0-001-093663675-4?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</url>
+      <description> 21+ 
+ &lt;p&gt;Direct has always had a love for music. At the age of 15, he received his first set of turntables. His ambitious drive for music grew even greater after earning several competitive titles, including the Ultimate Mackie&amp;#39;s First King of the D.2. Born and raised in Philadelphia, he decided to relocate to Las Vegas to further enhance his opportunities. His style is impeccable and his crowd reading abilities have garnered him multiple residencies throughout Las Vegas. From House, to Electro, Hip Hop, Trap and Rock, his versatile sense of style has proven to be one of a kind in the city that strives in nightlife.&lt;/p&gt;</description>
+      <start_time>2016-06-11 22:00:00</start_time>
+      <stop_time></stop_time>
+      <tz_id></tz_id>
+      <tz_olson_path></tz_olson_path>
+      <tz_country></tz_country>
+      <tz_city></tz_city>
+      <olson_path>America/Los_Angeles</olson_path>
+      <venue_id>V0-001-008440762-8</venue_id>
+      <venue_url>http://sandiego.eventful.com/venues/parq-/V0-001-008440762-8?utm_source=apis&amp;utm_medium=apim&amp;utm_campaign=apic</venue_url>
+      <venue_name>PARQ</venue_name>
+      <venue_display>1</venue_display>
+      <venue_address>615 Broadway</venue_address>
+      <city_name>San Diego</city_name>
+      <region_name>California</region_name>
+      <region_abbr>CA</region_abbr>
+      <postal_code></postal_code>
+      <country_name>United States</country_name>
+      <country_abbr2>US</country_abbr2>
+      <country_abbr>USA</country_abbr>
+      <latitude>32.7153</latitude>
+      <longitude>-117.156</longitude>
+      <geocode_type>City Based GeoCodes</geocode_type>
+      <all_day>0</all_day>
+      <recur_string></recur_string>
+      <calendar_count></calendar_count>
+      <comment_count></comment_count>
+      <link_count></link_count>
+      <going_count></going_count>
+      <watching_count></watching_count>
+      <created>2016-05-27 01:12:26</created>
+      <owner>evdb</owner>
+      <free></free>
+      <price></price>
+      <modified>2016-05-27 01:12:26</modified>
+      <performers></performers>
+      <image></image>
+      <privacy>1</privacy>
+      <calendars></calendars>
+      <groups></groups>
+      <going></going>
+    </event>
+  </events>
+</search>
